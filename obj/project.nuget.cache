@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2reZBMKHkAQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rudel\\Desktop\\Leng Pro 2\\TablaDeDeuda\\TablaDeDeuda.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rudel\\.nuget\\packages\\spectre.console\\0.57.2\\spectre.console.0.57.2.nupkg.sha512",
+    "C:\\Users\\rudel\\.nuget\\packages\\spectre.console.ansi\\0.57.2\\spectre.console.ansi.0.57.2.nupkg.sha512"
+  ],
+  "logs": []
+}
