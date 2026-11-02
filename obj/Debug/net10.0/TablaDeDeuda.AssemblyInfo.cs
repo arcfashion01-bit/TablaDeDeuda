@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TablaDeDeuda")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1324d7040735eb1ce226d144d32748fedfe4397")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54c3fc5bcac293c4bbb8283fe23b8843dd9706e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("TablaDeDeuda")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TablaDeDeuda")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
